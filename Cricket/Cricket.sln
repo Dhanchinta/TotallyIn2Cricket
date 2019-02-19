@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{598E8FF1-F622-4B67-BA3E-63A9B39DC9AF}"
+	ProjectSection(SolutionItems) = preProject
+		..\download (2).jpg = ..\download (2).jpg
+		..\download.jpg = ..\download.jpg
+		..\elements.html = ..\elements.html
+		..\images (3).jpg = ..\images (3).jpg
+		..\img 4.jpg = ..\img 4.jpg
+		..\img 6.jpg = ..\img 6.jpg
+		..\img 7.jpg = ..\img 7.jpg
+		..\index.html = ..\index.html
+		..\left-sidebar.html = ..\left-sidebar.html
+		..\no-sidebar.html = ..\no-sidebar.html
+		..\right-sidebar.html = ..\right-sidebar.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F20CAA74-56B5-4738-B298-477E0C02CA20}
+	EndGlobalSection
+EndGlobal
